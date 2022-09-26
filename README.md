@@ -1,5 +1,7 @@
 # computational_physics
 
-curso: fisica computacional, todos los labs
+curso: fisica computacional UNSA, todos los labs
 
-Lab 1: MRU, MRUV in python
+- Lab 1: Capitulo I - Movimiento en una, dos y tres dimensiones (MRU, MRUV) in python
+
+- Lab 2: Capítulo II - Dinámica en una y dos dimensiones (DCL)
