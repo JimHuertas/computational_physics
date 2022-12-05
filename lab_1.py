@@ -14,7 +14,7 @@ def MRUV_Vf(V, t, a):
     if(V,t > 0):
         return (V*t)+(a*t)
 
-def main():
+if __name__ == "__main__":
     while(True):
         opc = int(input('Que desea calcular\n(1) Distancia(d) en MRU\n(2) Distancia(d) en MRUV\n(3) Velocidad Final(Vf) en MRUV\n(0) Salir\nOpcion: '))
         if(opc == 1):
@@ -34,4 +34,3 @@ def main():
         else:
             break
 
-main()
